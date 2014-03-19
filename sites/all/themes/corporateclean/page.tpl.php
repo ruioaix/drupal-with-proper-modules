@@ -3,7 +3,7 @@
 	<!-- #header-inside -->
     <div id="header-inside" class="container_12 clearfix">
     	<!-- #header-inside-left -->
-        <div id="header-inside-left" class="grid_8">
+        <div id="header-inside-left" class="grid_12">
             
             <?php if ($logo): ?>
             <a href="<?php print check_url($front_page); ?>" title="<?php print t('Home'); ?>"><img src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" /></a>
@@ -23,11 +23,11 @@
         </div><!-- EOF: #header-inside-left -->
         
         <!-- #header-inside-right -->    
-        <div id="header-inside-right" class="grid_4">
+       <!--  <div id="header-inside-right" class="grid_4">
 
-			<?php print render($page['search_area']); ?>
+			<?php //print render($page['search_area']); ?>
 
-        </div><!-- EOF: #header-inside-right -->
+        </div> --><!-- EOF: #header-inside-right -->
     
     </div><!-- EOF: #header-inside -->
 

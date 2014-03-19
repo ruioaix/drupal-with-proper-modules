@@ -544,3 +544,14 @@ ul.primary, ul.tabs { clear:both; margin:10px 0 35px 0; white-space: normal }
 ul.primary li, ul.tabs li { padding:10px 0; line-height:130%; }
 
 ul.primary li a, ul.tabs li a { margin:0; padding: 4px 1em; display: inline-block; }
+
+
+#site-name {
+	font-size: 30px;
+	padding-left: 40px;
+}
+
+#slogan {
+	font-size: 20px;
+	padding-left: 20px;
+}
