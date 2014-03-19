@@ -548,7 +548,7 @@ ul.primary li a, ul.tabs li a { margin:0; padding: 4px 1em; display: inline-bloc
 
 #site-name {
 	font-size: 30px;
-	padding-left: 40px;
+	//padding-left: 40px;
 }
 
 #slogan {
