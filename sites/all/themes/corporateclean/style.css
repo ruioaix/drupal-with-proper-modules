@@ -559,3 +559,8 @@ ul.primary li a, ul.tabs li a { margin:0; padding: 4px 1em; display: inline-bloc
 #powered {
 	float: right;
 }
+
+.field-name-field-tags .field-item {
+	display: inline; 
+	padding-left: 4px;
+}
